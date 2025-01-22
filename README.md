@@ -14,7 +14,7 @@ A modern, responsive website for an AI & ML product design agency built with HTM
 - Dynamic hover effects
 - Mobile-friendly hamburger menu
 - Case studies showcase
-- Service breakdown sections
+- Service breankdown sections
 
 ## 🚀 Technologies Used
 
@@ -111,9 +111,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 Your Name - [harshaltupe2020@gmail.com](mailto:harshaltupe2020@gmail.com)
 
-Project Link: [https://github.com/yourusername/ai-ml-design-agency](https://github.com/yourusername/ai-ml-design-agency)
+Project Link: [https://github.com/yourusername/ai-ml-design-agency](https://github.com/HarshalTupe17/Harshal_market_web/tree/main)
 
 ---
-⭐️ From [HarshalTupe17](https://github.com/yourusername)
+⭐️ From [HarshalTupe17](https://github.com/HarshalTupe17)
 
 
